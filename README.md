@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m interested in **using python**
+- 🤝 I’m interested in **python**
 
 - 💬 Ask me about **Tech**
 
-- 📫 How to reach me **CSRIRAM304@GMAIL.COM**
+- 📫 How to reach me **csriram304@gmail.com**
 
 - ⚡ Fun fact - **I create website desgin**
 
