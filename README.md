@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm SRIRAM C</h1>
 <h3 align="center"> Aspiring MCA graduate specializing in software development with proﬁciency in Python using Django. My knowledge in coding, debugging, and software design to create efﬁcient and scalable software solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumar-jr&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkumar-jr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkumar-jr&label=Profile%20views&color=0e75b6&style=flat" alt="sriram" /> </p>
 
 - 🔭 I'm student of **Bharathidasan university**
 
 - 🌱 I’m currently learning **DSA**
 
-- 🤝 I’m interested in **python**
+- 🤝 I’m interested in **software developer**
 
 - 💬 Ask me about **Tech**
 
